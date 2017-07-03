@@ -6,4 +6,4 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [ysera "1.0.0"]]
   :target-path "target/%s"
-  :profiles {:uberjar {:aot :all}})
+  :profiles {:uberjar {:tic-tac-toe :all}})
